@@ -43,4 +43,3 @@ npm run dev
 ---
 
 Made with ❤️ by [@sunny21sep](https://github.com/sunny21sep)
-```
